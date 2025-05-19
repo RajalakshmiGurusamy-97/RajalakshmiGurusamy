@@ -1,0 +1,33 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Gowtham/Desktop/VERILOG ASSIGNMENT/A3-CLOCK GENERATION/5-user defined freq ,dc,jitter
+vfreq_dc_jitter
+!s110 1741021543
+!i10b 1
+!s100 _FPI9@=3SQc=S[oRzNU330
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+ISW8?QXVa2ozk`GGf]nn1V3
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1741021537
+8freq_dc_jitter.v
+Ffreq_dc_jitter.v
+!i122 0
+L0 2 19
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1741021543.000000
+!s107 freq_dc_jitter.v|
+!s90 -reportprogress|300|freq_dc_jitter.v|
+!i113 1
+tCvgOpt 0
