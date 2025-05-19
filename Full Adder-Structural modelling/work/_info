@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Gowtham/Desktop/VERILOG ASSIGNMENT/A1-COMBINATIONAL/2-(B)FULLADDER STRUCTURAL MODELLING
+vfull_adder
+Z1 !s110 1739213305
+!i10b 1
+!s100 Nj<O]U2NeYcjDbFc=NIKQ3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I6?77ago;:M5=cDcSMXBBf2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1739213295
+Z5 8fulladder.v
+Z6 Ffulladder.v
+!i122 1
+L0 13 17
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1739213304.000000
+!s107 fulladder.v|
+Z9 !s90 -reportprogress|300|fulladder.v|
+!i113 1
+Z10 tCvgOpt 0
+vfulladder
+R1
+!i10b 1
+!s100 A3?CmWzgN0Vz8:^YHd8M=1
+R2
+I>>2nMb`RZ;k4`>4m4Ymf22
+R3
+R0
+R4
+R5
+R6
+!i122 1
+L0 2 9
+R7
+r1
+!s85 0
+31
+R8
+Z11 !s107 fulladder.v|
+R9
+!i113 1
+R10

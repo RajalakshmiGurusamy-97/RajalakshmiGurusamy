@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Gowtham/Documents/Fulladder/Full Adder File data flow modelling
+vfa
+Z1 !s110 1738903453
+!i10b 1
+!s100 08EdhaUD:^@_X5k391g>i1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`^@_m3C@UWM`j=fAUzhQ02
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1738733759
+8fa.v
+Ffa.v
+!i122 0
+L0 3 7
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1738903452.000000
+!s107 fa.v|fa_tb.v|
+Z6 !s90 -reportprogress|300|fa_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vtop
+R1
+!i10b 1
+!s100 3fQhl7iVQ<AZd0D9BJc5X2
+R2
+Iakck7gG`_DjzPbNKVHZER1
+R3
+R0
+w1738733654
+8fa_tb.v
+Ffa_tb.v
+!i122 0
+L0 4 17
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 fa.v|fa_tb.v|
+R6
+!i113 1
+R7
