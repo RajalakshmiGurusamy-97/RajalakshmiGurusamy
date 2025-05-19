@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Gowtham/Desktop/VERILOG ASSIGNMENT/A1-COMBINATIONAL/3-TESTBENCH FOR HALFADDER BEHAVIOUR
+vha
+Z1 !s110 1739000614
+!i10b 1
+!s100 OP`:L?ONo[MRQKFA^iSda0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I]acMSeoAh]6@k66YBTKjJ2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1739000385
+8ha.v
+Fha.v
+!i122 10
+L0 2 9
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1739000614.000000
+!s107 ha.v|tb_ha.v|
+Z6 !s90 -reportprogress|300|tb_ha.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 ^RgHRbJm6OHG@I1<@KJBa1
+R2
+InK2URPQimiXz?XUnaz`FN1
+R3
+R0
+w1739000317
+8tb_ha.v
+Ftb_ha.v
+!i122 10
+L0 3 15
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 ha.v|tb_ha.v|
+R6
+!i113 1
+R7

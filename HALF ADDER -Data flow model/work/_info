@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Gowtham/Desktop/VERILOG ASSIGNMENT/A1-COMBINATIONAL/2-HALF ADDER LOGIC ASSIGN
+vhalfadder
+Z1 !s110 1738997380
+!i10b 1
+!s100 L2d^PC[WkPUlWf1@hU;Hz3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I5T[kGPcHBAgU_OabQ]W6F2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1738997376
+Z5 8halfadder.v
+Z6 Fhalfadder.v
+!i122 1
+L0 2 7
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1738997380.000000
+!s107 halfadder.v|
+Z9 !s90 -reportprogress|300|halfadder.v|
+!i113 1
+Z10 tCvgOpt 0
+vhalfadder_tb
+R1
+!i10b 1
+!s100 W3WI>z3UDFI]bjB7FX:7Z3
+R2
+IZSlRZFZKjg4BX9?^6>>HE1
+R3
+R0
+R4
+R5
+R6
+!i122 1
+L0 11 14
+R7
+r1
+!s85 0
+31
+R8
+Z11 !s107 halfadder.v|
+R9
+!i113 1
+R10
