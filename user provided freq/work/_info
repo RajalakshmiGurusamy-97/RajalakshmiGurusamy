@@ -1,0 +1,33 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Gowtham/Desktop/VERILOG ASSIGNMENT/A3-CLOCK GENERATION/3-user provided freq
+vuserdefined_freq
+!s110 1741020094
+!i10b 1
+!s100 BEI9?5fW;6_;:X4IG90`P3
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+IH;QC`olFLZBeZ;3^42SS93
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1741018592
+8userdefined_freq.v
+Fuserdefined_freq.v
+!i122 0
+L0 2 16
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1741020094.000000
+!s107 userdefined_freq.v|
+!s90 -reportprogress|300|userdefined_freq.v|
+!i113 1
+tCvgOpt 0
