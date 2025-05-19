@@ -1,0 +1,33 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Gowtham/Desktop/VERILOG ASSIGNMENT/A3-CLOCK GENERATION/1,2-clock generation
+vclk_generation
+!s110 1741014004
+!i10b 1
+!s100 ?5;2kL3:C2Y=ZIAEXgeWi1
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+IJ6kkcKo`jK2@oNXibeEY:2
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1741013975
+8clk_generation.v
+Fclk_generation.v
+!i122 0
+L0 3 14
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1741014004.000000
+!s107 clk_generation.v|
+!s90 -reportprogress|300|clk_generation.v|
+!i113 1
+tCvgOpt 0
