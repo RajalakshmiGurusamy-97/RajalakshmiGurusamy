@@ -34,8 +34,8 @@ endfunction
 	endmodule
 
 
-/OUTPUT 
-* # country=22 state=30 oper=6 y=0
+/*OUTPUT 
+ # country=22 state=30 oper=6 y=0
 # country=27 state=25 oper=6 y=0
 # country=17 state=30 oper=7 y=1073741824
 # country=20 state=29 oper=4 y=580
