@@ -1,0 +1,53 @@
+//ALU using case statement
+module alu_case;
+integer country,state,y;
+reg [3:0]oper;
+
+function reg[31:0] alu(input reg [7:0]in1,in2, input reg [3:0]oper);
+begin
+  case(oper)
+   4'b0000 :alu=in1+in2;
+   4'b0001 :alu=in1-in2;
+   4'b0010 :alu=in1/in2;
+   4'b0011 :alu=in1%in2;  //modulus
+   4'b0100 :alu=in1*in2;
+   4'b0101 :alu=in1**in2; //power
+   4'b0110 :alu=in1>>in2; //right shift
+   4'b0111 :alu=in1<<in2; //left shift
+   //above called parallel case,bcoz some of the possibilities only taken...
+   //4 bits gives 16 possibilities....
+   default alu='dx;
+   endcase
+end 
+endfunction
+
+ initial begin
+  repeat(15)begin
+   country=$urandom_range(10,30);
+   state=$urandom_range(20,30);
+   oper=$urandom_range(0,7);
+   y=alu(country,state,oper);
+   #1;
+   $display("country=%0d state=%0d oper=%0d y=%0b",country,state,oper,y);
+    end
+	end
+	endmodule
+
+
+/OUTPUT 
+* # country=22 state=30 oper=6 y=0
+# country=27 state=25 oper=6 y=0
+# country=17 state=30 oper=7 y=1073741824
+# country=20 state=29 oper=4 y=580
+# country=16 state=22 oper=5 y=0
+# country=12 state=25 oper=5 y=0
+# country=12 state=23 oper=3 y=12
+# country=16 state=23 oper=5 y=0
+# country=13 state=23 oper=5 y=1487897765
+# country=30 state=20 oper=3 y=10
+# country=30 state=25 oper=1 y=5
+# country=15 state=20 oper=6 y=0
+# country=23 state=26 oper=0 y=49
+# country=30 state=25 oper=7 y=1006632960
+# country=20 state=28 oper=2 y=0*/
+
