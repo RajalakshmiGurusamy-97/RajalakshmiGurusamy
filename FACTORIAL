@@ -1,0 +1,19 @@
+module factorial;
+integer y;
+integer n;
+function automatic integer fact(input integer n);
+begin 
+  if(n<=1)fact=1;
+  else fact=n*fact(n-1);
+end endfunction
+
+initial begin
+n=4;
+y=fact(n);
+$display("n=%0d y=%0d",n,y);
+end
+endmodule
+
+/*OUTPUT
+# n=4 y=24*/
+
