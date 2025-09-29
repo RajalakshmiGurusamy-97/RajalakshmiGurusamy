@@ -1,0 +1,21 @@
+module seed_try;
+integer a,b,c;
+integer seed;
+  initial begin
+  seed=12345;
+   repeat(3)begin
+   a=125+$random(seed)%26;  //(seed)%100
+   b=$random(seed);
+   c=$random(seed);
+   $display("a=%0d b=%0d c=%0d",a,b,c);
+   end
+  end
+endmodule
+
+/*# a=-1294826395 b=1708855243 c=-1124040582
+# a=-566997828 b=-508074813 c=1941871591
+# a=-158148371 b=-1091999619 c=584910661*/
+
+/*# a=-95 b=43 c=-82
+# a=-28 b=-13 c=91
+# a=-71 b=-19 c=61*/
